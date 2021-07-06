@@ -15,16 +15,18 @@ Pynput
 Wx-Python
 
 #### Group Members:-
-Hemaraj Dhakal
-Dharmik Vara
-Simran Yadav
-Satvika Koti
-Sai poornima
-Sakalya Mitra
+<br> Hemaraj Dhakal</br>
+<br> Dharmik Vara</br>
+<br>Simran Yadav</br>
+<br>Satvika Koti</br>
+<br>Sai poornima</br>
+<br> Sakalya Mitra</br>
 
 ### Mentor:-
-Miss Surbhi
-Divya Sri
+<br>Miss Surbhi</br>
+<br>Divya Sri</br>
+
+### Image
 
 ![image](https://user-images.githubusercontent.com/65659902/124559895-eb89d100-de5b-11eb-83a5-ae23c3c9da3d.png)
 
